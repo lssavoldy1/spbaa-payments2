@@ -1,0 +1,12 @@
+{
+  "name": "spbaa-payment-portal",
+  "version": "1.0.0",
+  "description": "Static frontend + Vercel serverless backend for SPBAA member payments (Stripe)",
+  "private": true,
+  "dependencies": {
+    "stripe": "^14.5.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}
